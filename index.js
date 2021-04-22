@@ -6,9 +6,7 @@
    //alert("This is really cool!");
    document.getElementById("text").innerHTML = "This is really cool!";
 });
-function displayResult() {
-  document.getElementById("text").innerHTML = "This is really cool!";
-}
+//
 
 //document.addEventListener("DOMContentLoaded", () => {
 //   alert("This is really cool!");
